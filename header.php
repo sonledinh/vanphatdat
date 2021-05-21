@@ -49,4 +49,39 @@
                 </div>
             </div>
         </div>
+        <div class="header-mobile" style="display: none;">
+            <div class="head-right">
+                <div class="top">
+                    <ul class="list-inline">
+                        <li class="list-inline-item"><a href="javascript:void(0)">teamviewer<img src="images/arr-head.png" class="img-fluid" alt=""></a></li>
+                        <li class="list-inline-item"><a href="javascript:void(0)">ultra view<img src="images/arr-head.png" class="img-fluid" alt=""></a></li>
+                        <li class="list-inline-item"><a href="javascript:void(0)">any desk<img src="images/arr-head.png" class="img-fluid" alt=""></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="container">
+                <div class="menu-mobile">
+                    <div class="row align-items-center">
+                        <div class="col-md-6 col-6">
+                            <div class="logo"><a href=""><img src="images/logo.png" class="img-fluid" alt=""></a></div>
+                        </div>
+                        <div class="col-md-6 col-6">
+                            <div class="header text-right">
+                                <a title="" href="#menu"><i class="fa fa-bars"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <nav id="menu">
+                    <ul>
+                        <li><a href="">Trang chủ</a></li>
+                        <li><a href="">Về chúng tôi</a></li>
+                        <li><a href="">Dịch vụ</a></li>
+                        <li><a href="">ĐỐi tác khách hàng</a></li>
+                        <li><a href="">Tin tức</a></li>
+                        <li><a href="">Liên hệ</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
     </header>

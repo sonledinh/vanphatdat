@@ -48,6 +48,10 @@ $(document).ready(function(){
     });
 });
 
+if($(window).innerWidth() >= 1024){
+    new WOW().init();
+}
+
 jQuery(document).ready(function( $ ) {
   $("#menu").mmenu({
      "extensions": [

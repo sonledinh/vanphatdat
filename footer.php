@@ -4,7 +4,7 @@
 			<div class="row">
 				<div class="col-md-6">
 					<div class="item-fter">
-						<div class="title-ft">Công ty TNHH TMDV Quốc Tế <h2>VĂN PHÁT ĐẠT</h2></div>
+						<div class="title-ft">Công ty TNHH TMDV Quốc Tế <span>VĂN PHÁT ĐẠT</span></div>
 						<div class="info-ft">
 							<ul>
 								<li>Địa chỉ: 169/13 Dương Văn Dương, Phường Tân Qúy, Quận Tân Phú, TP.HCM</li>

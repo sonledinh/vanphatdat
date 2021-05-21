@@ -10,9 +10,9 @@
 							<div class="col-md-7"></div>
 							<div class="col-md-5">
 								<div class="info">
-									<h4><img src="images/title-cap.png" class="img-fluid" alt=""></h4>
-									<h3>Chuyên cung cấp dịch vụ</h3>
-									<h2>IT Helpdesk</h2>
+									<h4 class="wow fadeInUp wHighlight" data-wow-delay=".25s"><img src="images/title-cap.png" class="img-fluid" alt=""></h4>
+									<h3 class="wow fadeInUp wHighlight" data-wow-delay=".45s">Chuyên cung cấp dịch vụ</h3>
+									<h2 class="wow fadeInUp wHighlight" data-wow-delay=".65s">IT Helpdesk</h2>
 								</div>
 							</div>
 						</div>
@@ -27,9 +27,9 @@
 							<div class="col-md-7"></div>
 							<div class="col-md-5">
 								<div class="info">
-									<h4><img src="images/title-cap.png" class="img-fluid" alt=""></h4>
-									<h3>Chuyên cung cấp dịch vụ</h3>
-									<h2>IT Helpdesk</h2>
+									<h4 class="wow fadeInUp wHighlight" data-wow-delay=".25s"><img src="images/title-cap.png" class="img-fluid" alt=""></h4>
+									<h3 class="wow fadeInUp wHighlight" data-wow-delay=".45s">Chuyên cung cấp dịch vụ</h3>
+									<h2 class="wow fadeInUp wHighlight" data-wow-delay=".65s">IT Helpdesk</h2>
 								</div>
 							</div>
 						</div>
@@ -40,24 +40,24 @@
 	</section>
 	<section class="box-partner">
 		<div class="container">
-			<div class="title text-center">
+			<div class="title text-center wow fadeInUp wHighlight" data-wow-delay=".25s">
 				<h2 class="text-uppercase">ĐỐI TÁC VÀ KHÁCH HÀNG</h2>
 			</div>
-			<div class="desc-part text-center">
+			<div class="desc-part text-center wow fadeInUp wHighlight" data-wow-delay=".25s">
 				<p>Dựa trên công nghệ mới được phát triển bởi các Công ty Doanh nghiệp lớn như Cisco, IBM, HP, Juniper, Fortigate, Palo Alto… Công ty chúng tôi đã trở thành đối tác của công ty họ tại Việt Nam. Chúng tôi thiết kế cơ sở hạ tầng mạng, tư vấn và cung cấp các giải pháp tốt nhất cho tường lửa, bộ nhớ, hội nghị truyền hình, thoại và dữ liệu CNTT của khách hàng</p>
 			</div>
 			<div class="list-partner">
 				<ul>
-					<li><a href=""><img src="images/part-1.png" class="img-fluid" alt=""></a></li>
-					<li><a href=""><img src="images/part-2.png" class="img-fluid" alt=""></a></li>
-					<li><a href=""><img src="images/part-3.png" class="img-fluid" alt=""></a></li>
-					<li><a href=""><img src="images/part-4.png" class="img-fluid" alt=""></a></li>
-					<li><a href=""><img src="images/part-5.png" class="img-fluid" alt=""></a></li>
-					<li><a href=""><img src="images/part-1.png" class="img-fluid" alt=""></a></li>
-					<li><a href=""><img src="images/part-2.png" class="img-fluid" alt=""></a></li>
-					<li><a href=""><img src="images/part-3.png" class="img-fluid" alt=""></a></li>
-					<li><a href=""><img src="images/part-4.png" class="img-fluid" alt=""></a></li>
-					<li><a href=""><img src="images/part-5.png" class="img-fluid" alt=""></a></li>
+					<li class="wow fadeInUp wHighlight" data-wow-delay=".25s"><a href=""><img src="images/part-1.png" class="img-fluid" alt=""></a></li>
+					<li class="wow fadeInUp wHighlight" data-wow-delay=".35s"><a href=""><img src="images/part-2.png" class="img-fluid" alt=""></a></li>
+					<li class="wow fadeInUp wHighlight" data-wow-delay=".45s"><a href=""><img src="images/part-3.png" class="img-fluid" alt=""></a></li>
+					<li class="wow fadeInUp wHighlight" data-wow-delay=".55s"><a href=""><img src="images/part-4.png" class="img-fluid" alt=""></a></li>
+					<li class="wow fadeInUp wHighlight" data-wow-delay=".65s"><a href=""><img src="images/part-5.png" class="img-fluid" alt=""></a></li>
+					<li class="wow fadeInUp wHighlight" data-wow-delay=".75s"><a href=""><img src="images/part-1.png" class="img-fluid" alt=""></a></li>
+					<li class="wow fadeInUp wHighlight" data-wow-delay=".85s"><a href=""><img src="images/part-2.png" class="img-fluid" alt=""></a></li>
+					<li class="wow fadeInUp wHighlight" data-wow-delay=".95s"><a href=""><img src="images/part-3.png" class="img-fluid" alt=""></a></li>
+					<li class="wow fadeInUp wHighlight" data-wow-delay="1.05s"><a href=""><img src="images/part-4.png" class="img-fluid" alt=""></a></li>
+					<li class="wow fadeInUp wHighlight" data-wow-delay="1.15s"><a href=""><img src="images/part-5.png" class="img-fluid" alt=""></a></li>
 				</ul>
 			</div>
 		</div>
@@ -65,8 +65,8 @@
 	<section class="box-about">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-6">
-					<div class="about-left">
+				<div class="col-md-6 col-sm-6">
+					<div class="about-left wow fadeInUp wHighlight" data-wow-delay=".25s">
 						<h2>IT HELPDESK là gì ?</h2>
 						<div class="desc">
 							<p>Chúng tôi triển khai giải pháp công nghệ GPON mới phục vụ nhu cầu của Nhà cung cấp dịch vụ Internet, xây dựng giải pháp dựa trên giải pháp Dasan, ZTE. Service Desk Base in Customer Site. Maintenance & Support during 24/7 for Customer.</p>
@@ -74,15 +74,15 @@
 						<div class="btn-main"><a href="" class="text-uppercase">đăng ký ngay</a></div>
 					</div>
 				</div>
-				<div class="col-md-6">
-					<div class="avarta-ab text-right"><img src="images/about.png" class="img-fluid" alt=""></div>
+				<div class="col-md-6 col-sm-6">
+					<div class="avarta-ab text-right wow fadeInUp wHighlight" data-wow-delay=".25s"><img src="images/about.png" class="img-fluid" alt=""></div>
 				</div>
 			</div>
 		</div>
 	</section>
 	<section class="box-service">
 		<div class="container">
-			<div class="title text-center">
+			<div class="title text-center wow fadeInUp wHighlight" data-wow-delay=".25s">
 				<h2 class="text-uppercase">Gói dịch vụ it chuyên nghiệp</h2>
 				<div class="desc">
 					<p>Dịch vụ xử lý vấn để On-site và On-Call 27/7</p>
@@ -90,7 +90,7 @@
 			</div>
 			<div class="list-srv">
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-4 wow fadeInUp wHighlight" data-wow-delay=".25s">
 						<div class="item-srv text-center">
 							<div class="icon"><img src="images/srv-1.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -99,7 +99,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-4 wow fadeInUp wHighlight" data-wow-delay=".45s">
 						<div class="item-srv text-center">
 							<div class="icon"><img src="images/srv-2.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -108,7 +108,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-4 wow fadeInUp wHighlight" data-wow-delay=".65s">
 						<div class="item-srv text-center">
 							<div class="icon"><img src="images/srv-3.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -123,14 +123,14 @@
 	</section>
 	<section class="box-quesstion">
 		<div class="container">
-			<div class="title text-center">
+			<div class="title text-center wow fadeInUp wHighlight" data-wow-delay=".25s">
 				<h2 class="text-uppercase">Các câu hỏi thường gặp từ khách hàng</h2>
 				<div class="desc">
 					<p>Dịch vụ xử lý vấn để On-site và On-Call 27/7</p>
 				</div>
 			</div>
 			<div class="list-quess">
-				<div class="item-quess">
+				<div class="item-quess wow fadeInUp wHighlight" data-wow-delay=".25s">
 					<div class="head-quess">
 						<h4>Từ khi nhận đợc yêu cầu đến khi support là bao lâu ?</h4>
 					</div>
@@ -140,7 +140,7 @@
 						<p>Thực hiện sửa chữa phần cứng máy tính, các thiết bị máy tính PC và các thiết bị ngoại vi không được thỏa thuận bảo dưỡng của bên thứ ba nhà cung cấp.</p>
 					</div>
 				</div>
-				<div class="item-quess">
+				<div class="item-quess wow fadeInUp wHighlight" data-wow-delay=".45s">
 					<div class="head-quess">
 						<h4>Từ khi nhận đợc yêu cầu đến khi support là bao lâu ?</h4>
 					</div>
@@ -150,7 +150,7 @@
 						<p>Thực hiện sửa chữa phần cứng máy tính, các thiết bị máy tính PC và các thiết bị ngoại vi không được thỏa thuận bảo dưỡng của bên thứ ba nhà cung cấp.</p>
 					</div>
 				</div>
-				<div class="item-quess">
+				<div class="item-quess wow fadeInUp wHighlight" data-wow-delay=".65s">
 					<div class="head-quess">
 						<h4>Từ khi nhận đợc yêu cầu đến khi support là bao lâu ?</h4>
 					</div>
@@ -161,14 +161,14 @@
 					</div>
 				</div>
 			</div>
-			<div class="load-more text-center">
+			<div class="load-more text-center wow fadeInUp wHighlight" data-wow-delay=".85s">
 				<a href="">Xem thêm</a>
 			</div>
 		</div>
 	</section>
 	<section class="box-benefit" style="background: url('images/bn-ben.jpg') no-repeat center;">
 		<div class="container">
-			<div class="title text-center">
+			<div class="title text-center wow fadeInUp wHighlight" data-wow-delay=".25s">
 				<h2 class="text-uppercase">Lợi ích của việc thuê dịch vụ cntt vạn phát đạt</h2>
 				<div class="desc">
 					<p>Dịch vụ xử lý vấn để On-site và On-Call 27/7</p>
@@ -176,7 +176,7 @@
 			</div>
 			<div class="list-benefit">
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-4 col-sm-4 wow fadeInUp wHighlight" data-wow-delay=".25s">
 						<div class="item-benefit text-center">
 							<div class="avarta"><img src="images/l-ich-1.jpg" class="img-fluid w-100" alt=""></div>
 							<div class="info">
@@ -188,7 +188,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-4 col-sm-4 wow fadeInUp wHighlight" data-wow-delay=".45s">
 						<div class="item-benefit text-center">
 							<div class="avarta"><img src="images/l-ich-2.jpg" class="img-fluid w-100" alt=""></div>
 							<div class="info">
@@ -200,7 +200,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-4 col-sm-4 wow fadeInUp wHighlight" data-wow-delay=".65s">
 						<div class="item-benefit text-center">
 							<div class="avarta"><img src="images/l-ich-3.jpg" class="img-fluid w-100" alt=""></div>
 							<div class="info">
@@ -213,13 +213,13 @@
 						</div>
 					</div>
 				</div>
-				<div class="view-all text-center"><a href="">XEM TẤT CẢ</a></div>
+				<div class="view-all text-center wow fadeInUp wHighlight" data-wow-delay=".85s"><a href="">XEM TẤT CẢ</a></div>
 			</div>
 		</div>
 	</section>
 	<section class="box-news">
 		<div class="container">
-			<div class="title text-center">
+			<div class="title text-center wow fadeInUp wHighlight" data-wow-delay=".25s">
 				<h2 class="text-uppercase">tin tức</h2>
 				<div class="desc">
 					<p>Dịch vụ xử lý vấn để On-site và On-Call 27/7</p>
@@ -227,7 +227,7 @@
 			</div>
 			<div class="list-news">
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-4 col-sm-4 wow fadeInUp wHighlight" data-wow-delay=".25s">
 						<div class="item-news">
 							<div class="avarta"><img src="images/new-1.png" class="img-fluid w-100" alt=""></div>
 							<div class="info">
@@ -244,7 +244,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-4 col-sm-4 wow fadeInUp wHighlight" data-wow-delay=".35s">
 						<div class="item-news">
 							<div class="avarta"><img src="images/new-2.png" class="img-fluid w-100" alt=""></div>
 							<div class="info">
@@ -261,7 +261,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-4 col-sm-4 wow fadeInUp wHighlight" data-wow-delay=".45s">
 						<div class="item-news">
 							<div class="avarta"><img src="images/new-1.png" class="img-fluid w-100" alt=""></div>
 							<div class="info">

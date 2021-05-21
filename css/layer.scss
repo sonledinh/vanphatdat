@@ -3,6 +3,13 @@ footer {
 	background: $blue;
     color: #fff;
     padding: 40px 0 0 0;
+    .col-md-6 {
+    	.title-ft {
+    		position: relative;
+    		margin-top: -18px;
+    	}
+    }
+
 }
 .title-ft {
     font-size: 18px;
@@ -10,8 +17,6 @@ footer {
     margin-bottom: 30px;
     padding-bottom: 15px;
     position: relative;
-    display: flex;
-    align-items: baseline;
     &:after {
     	content: "";
 	    width: 70px;
@@ -22,6 +27,11 @@ footer {
 	    left: 0;
     }
     h2 {
+    	padding-left: 15px;
+	    font-size: 30px;
+	    font-weight: bold;
+    }
+    span {
     	padding-left: 15px;
 	    font-size: 30px;
 	    font-weight: bold;

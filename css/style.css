@@ -77,15 +77,16 @@ footer {
   background: #212542;
   color: #fff;
   padding: 40px 0 0 0; }
+  footer .col-md-6 .title-ft {
+    position: relative;
+    margin-top: -18px; }
 
 .title-ft {
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 30px;
   padding-bottom: 15px;
-  position: relative;
-  display: flex;
-  align-items: baseline; }
+  position: relative; }
   .title-ft:after {
     content: "";
     width: 70px;
@@ -95,6 +96,10 @@ footer {
     bottom: 0;
     left: 0; }
   .title-ft h2 {
+    padding-left: 15px;
+    font-size: 30px;
+    font-weight: bold; }
+  .title-ft span {
     padding-left: 15px;
     font-size: 30px;
     font-weight: bold; }
