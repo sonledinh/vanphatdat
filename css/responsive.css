@@ -56,6 +56,13 @@
 	footer .col-md-6 .title-ft {
 	    margin-top: -7px;
 	}
+	.list-service .row .col-md-4 {
+	    padding: 0 15px;
+	}
+
+	.list-service .row {
+	    margin: 0 -15px;
+	}
 }
 
 @media (max-width: 1023px) and (min-width: 767px) {
@@ -113,6 +120,9 @@
 	}
 	.title-ft span {
 	    font-size: 18px;
+	}
+	.detail-info h1 {
+	    font-size: 30px;
 	}
 }
 
@@ -331,6 +341,30 @@
 	.head-right {
 	    overflow: hidden;
 	}
+	.about {
+	    padding: 30px 0;
+	}
+
+	.detail-info h1 {
+	    font-size: 22px;
+	    line-height: 1.4;
+	}
+
+	.detail-info {
+	    margin-bottom: 15px;
+	}
+
+	.share-detail {
+	    padding: 10px;
+	}
+
+	.share-detail h4 {
+	    margin-bottom: 5px;
+	}
+
+	.share-detail li {
+	    margin-right: 0 !important;
+	}
 }
 
 @media (max-width: 575px) {
@@ -361,6 +395,37 @@
 
 	.list-news .row .col-md-4:last-child {
 	    margin-bottom: 0;
+	}
+	.item-service {
+	    display: flex;
+	}
+
+	.item-service .avarta {
+	    flex: 0 0 45%;
+	    margin-right: 10px;
+	    margin-bottom: 0;
+	}
+
+	.item-service .info .desc {
+	    overflow: hidden;
+	    max-height: 95px;
+	    font-size: 13px;
+	}
+
+	.list-service .col-md-4 {
+	    margin-bottom: 15px;
+	}
+
+	.list-service {
+	    padding-top: 15px;
+	}
+
+	.list-service .col-md-4:last-child {
+	    margin-bottom: 0;
+	}
+
+	.box-service {
+	    padding: 25px 0;
 	}
 }
 
@@ -398,4 +463,10 @@
 	    flex: 0 0 25%;
 	    max-width: 25%;
 	}
+	.list-service .row .col-md-4 {
+	    padding: 0 7px;
+	}
+
+	.list-service .row {
+	 
 }

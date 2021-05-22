@@ -34,10 +34,10 @@
 						<div class="title-ft">Kết nối với chúng tôi</div>
 						<div class="social-ft">
 							<ul class="list-inline">
-								<li class="list-inline-item"><a href=""><i class="fa fa-facebook"></i></a></li>
-								<li class="list-inline-item"><a href=""><i class="fa fa-twitter"></i></a></li>
-								<li class="list-inline-item"><a href=""><i class="fa fa-instagram"></i></a></li>
-								<li class="list-inline-item"><a href=""><i class="fa fa-google-plus"></i></a></li>
+								<li class="list-inline-item"><a href=""><img src="images/ft-1.png" class="img-fluid" alt=""></a></li>
+								<li class="list-inline-item"><a href=""><img src="images/ft-2.png" class="img-fluid" alt=""></a></li>
+								<li class="list-inline-item"><a href=""><img src="images/ft-3.png" class="img-fluid" alt=""></a></li>
+								<li class="list-inline-item"><a href=""><img src="images/ft-4.png" class="img-fluid" alt=""></a></li>
 							</ul>
 						</div>
 					</div>

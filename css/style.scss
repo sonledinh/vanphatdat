@@ -27,16 +27,16 @@ body {
         }  
     }  
     ul {     
-    	padding: 0; 
-    	margin: 0; 
+        padding: 0; 
+        margin: 0; 
     }   
     input, button {   
-    	outline: none !important; 
-    	box-shadow: none; 
-    	transition: .3s all; 
+        outline: none !important; 
+        box-shadow: none; 
+        transition: .3s all; 
     }
     .slick-slide {
-    	height: auto;  
+        height: auto;  
         img {
             display: inline;
         }
@@ -397,4 +397,66 @@ body {
 .desc-abs {
     font-weight: bold;
     line-height: 2.5;
+}
+
+.list-service {
+    padding-top: 35px;
+    .row {
+        margin: 0 -30px;
+        .col-md-4 {
+            padding: 0 30px;
+        }
+    }
+}
+.item-service {
+    .avarta {
+        margin-bottom: 10px;
+    }
+    .info {
+        a {
+            display: block;
+            font-size: 14px;
+            font-weight: bold;
+            color: $blue;
+        }
+        .desc {
+            margin-top: 10px;
+            line-height: 1.5;
+        }
+    }
+}
+.about {
+    padding: 60px 0;
+}
+.detail-info {
+    margin-bottom: 40px;
+    h1 {
+        font-size: 40px;
+        font-weight: bold;
+        color: $blue;
+    }
+}
+.content-detail {
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    p {
+        margin-bottom: 20px;
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+}
+.share-detail {
+    background: #ececec;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 40px;
+    h4 {
+        font-weight: 600;
+        color: #333;
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
 }
