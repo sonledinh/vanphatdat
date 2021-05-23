@@ -199,6 +199,10 @@ footer {
     font-size: 40px;
     font-weight: bold;
     color: #212542; }
+    .title h2 span {
+      position: relative;
+      border-bottom: 2px solid;
+      padding-bottom: 8px; }
   .title .desc {
     font-weight: bold;
     margin-top: 10px; }
@@ -445,7 +449,13 @@ footer {
       padding: 0 30px; }
 
 .item-service .avarta {
-  margin-bottom: 10px; }
+  margin-bottom: 10px;
+  overflow: hidden; }
+  .item-service .avarta img {
+    transition: .6s all !important;
+    height: 278px; }
+    .item-service .avarta img:hover {
+      transform: scale(1.06); }
 .item-service .info a {
   display: block;
   font-size: 14px;
@@ -454,6 +464,26 @@ footer {
 .item-service .info .desc {
   margin-top: 10px;
   line-height: 1.5; }
+.item-service .date {
+  color: #212542;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px; }
+  .item-service .date span {
+    display: inline-flex;
+    height: 30px;
+    background: #212542;
+    color: #fff;
+    align-items: center;
+    font-size: 16px;
+    font-weight: normal;
+    padding: 0 6px;
+    position: relative;
+    margin-right: 10px; }
+    .item-service .date span i {
+      position: relative;
+      top: 1px;
+      margin-right: 5px; }
 
 .about {
   padding: 60px 0; }
@@ -483,5 +513,58 @@ footer {
     color: #333;
     font-size: 14px;
     margin-bottom: 10px; }
+
+.box-contact {
+  padding: 60px 0; }
+
+.content-contact {
+  margin-top: 80px; }
+
+.info-contact ul {
+  list-style: none; }
+  .info-contact ul li {
+    margin-bottom: 12px; }
+    .info-contact ul li strong {
+      padding-right: 5px; }
+    .info-contact ul li:last-child {
+      margin-bottom: 0; }
+.info-contact .desc {
+  padding-top: 40px; }
+
+.frm-contact {
+  padding-left: 120px; }
+  .frm-contact .item {
+    margin-bottom: 25px; }
+    .frm-contact .item:last-child {
+      margin-bottom: 0; }
+  .frm-contact .inp_txt {
+    width: 100%;
+    height: 45px;
+    padding: 0 15px;
+    border-radius: 10px;
+    background: #e1e1e1;
+    border: 1px solid #000000; }
+  .frm-contact textarea {
+    width: 100%;
+    height: 95px;
+    padding: 10px 15px;
+    border-radius: 10px;
+    background: #e1e1e1;
+    border: 1px solid #000000;
+    outline: none; }
+  .frm-contact input[type=submit] {
+    font-weight: bold;
+    display: inline-flex;
+    height: 35px;
+    align-items: center;
+    padding: 0 22px;
+    border-radius: 10px;
+    border: 1px solid #212542;
+    background: #212542;
+    color: #fff;
+    cursor: pointer; }
+    .frm-contact input[type=submit]:hover {
+      background: #fff;
+      color: #212542; }
 
 /*# sourceMappingURL=style.css.map */

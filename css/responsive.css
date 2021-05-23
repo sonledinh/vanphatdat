@@ -124,6 +124,12 @@
 	.detail-info h1 {
 	    font-size: 30px;
 	}
+	.item-service .avarta img {
+	    height: 195px;
+	}
+	.frm-contact {
+	    padding: 0;
+	}
 }
 
 @media (max-width: 767px) {
@@ -365,6 +371,37 @@
 	.share-detail li {
 	    margin-right: 0 !important;
 	}
+	.item-service .date {
+	    font-size: 12px;
+	}
+
+	.item-service .date span {
+	    font-size: 12px;
+	    height: 24px;
+	    margin-right: 3px;
+	}
+	.box-contact {
+	    padding: 30px 0;
+	}
+
+	.content-contact {
+	    margin-top: 30px;
+	}
+
+	.info-contact .desc {
+	    padding-top: 20px;
+	}
+
+	.info-contact {}
+
+	.frm-contact {
+	    padding-left: 0;
+	    padding-top: 30px;
+	}
+
+	.frm-contact .item {
+	    margin-bottom: 15px;
+	}
 }
 
 @media (max-width: 575px) {
@@ -427,6 +464,9 @@
 	.box-service {
 	    padding: 25px 0;
 	}
+	.item-service .avarta img {
+	    height: 135px;
+	}
 }
 
 @media (max-width: 767px) and (min-width: 576px) {
@@ -467,6 +507,7 @@
 	    padding: 0 7px;
 	}
 
-	.list-service .row {
-	 
+	.item-service .avarta img {
+	    height: 135px;
+	}
 }
